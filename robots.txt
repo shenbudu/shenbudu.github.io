@@ -1,0 +1,3 @@
+Sitemap: https://me.tometo.me/sitemap.xml
+User-agent:*
+Disallow:
